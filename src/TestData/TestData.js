@@ -1,0 +1,720 @@
+export default {
+  kind: 'books#volumes',
+  totalItems: 2858,
+  items: [
+    {
+      kind: 'books#volume',
+      id: 'Ym4usUyOmNEC',
+      etag: '2AXcZecth8k',
+      selfLink: 'https://www.googleapis.com/books/v1/volumes/Ym4usUyOmNEC',
+      volumeInfo: {
+        title: 'Free-Motion Quilting with Angela Walters',
+        subtitle: 'Choose & Use Quilting Designs on Modern Quilts',
+        authors: [
+          'Angela Walters',
+        ],
+        publisher: 'C&T Publishing Inc',
+        publishedDate: '2012-06-01',
+        description: 'Popular machine quilter Angela Walters will motivate you to try something new! Learn to stitch her fresh continuous-line designs on your longarm or domestic machine. Includes step-by-step instructions for continuous-line swirls, circles, squares, vines, arcs, and points. Using basic free-motion skills you already have, discover how to approach quilting a modern quilt by working with bold fabrics and negative space, uniting a variety of shapes, and blending designs. Draw inspiration from striking pictures of 20 modern quilts showing Angela’s designs. You’ll love her practical advice for choosing the perfect pattern to give your modern quilt maximum impact.',
+        industryIdentifiers: [
+          {
+            type: 'ISBN_13',
+            identifier: '9781607055365',
+          },
+          {
+            type: 'ISBN_10',
+            identifier: '1607055368',
+          },
+        ],
+        readingModes: {
+          text: true,
+          image: true,
+        },
+        pageCount: 120,
+        printType: 'BOOK',
+        categories: [
+          'Crafts & Hobbies',
+        ],
+        averageRating: 5.0,
+        ratingsCount: 2,
+        maturityRating: 'NOT_MATURE',
+        allowAnonLogging: true,
+        contentVersion: '0.1.1.0.preview.3',
+        panelizationSummary: {
+          containsEpubBubbles: false,
+          containsImageBubbles: false,
+        },
+        imageLinks: {
+          smallThumbnail: 'http://books.google.com/books/content?id=Ym4usUyOmNEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api',
+          thumbnail: 'http://books.google.com/books/content?id=Ym4usUyOmNEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api',
+        },
+        language: 'en',
+        previewLink: 'http://books.google.co.in/books?id=Ym4usUyOmNEC&printsec=frontcover&dq=quiltting&hl=&cd=1&source=gbs_api',
+        infoLink: 'http://books.google.co.in/books?id=Ym4usUyOmNEC&dq=quiltting&hl=&source=gbs_api',
+        canonicalVolumeLink: 'https://books.google.com/books/about/Free_Motion_Quilting_with_Angela_Walters.html?hl=&id=Ym4usUyOmNEC',
+      },
+      saleInfo: {
+        country: 'IN',
+        saleability: 'NOT_FOR_SALE',
+        isEbook: false,
+      },
+      accessInfo: {
+        country: 'IN',
+        viewability: 'PARTIAL',
+        embeddable: true,
+        publicDomain: false,
+        textToSpeechPermission: 'ALLOWED',
+        epub: {
+          isAvailable: true,
+          acsTokenLink: 'http://books.google.co.in/books/download/Free_Motion_Quilting_with_Angela_Walters-sample-epub.acsm?id=Ym4usUyOmNEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api',
+        },
+        pdf: {
+          isAvailable: true,
+          acsTokenLink: 'http://books.google.co.in/books/download/Free_Motion_Quilting_with_Angela_Walters-sample-pdf.acsm?id=Ym4usUyOmNEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api',
+        },
+        webReaderLink: 'http://play.google.com/books/reader?id=Ym4usUyOmNEC&hl=&printsec=frontcover&source=gbs_api',
+        accessViewStatus: 'SAMPLE',
+        quoteSharingAllowed: false,
+      },
+      searchInfo: {
+        textSnippet: 'Popular machine quilter Angela Walters will motivate you to try something new!',
+      },
+    },
+    {
+      kind: 'books#volume',
+      id: 'LiiMo1q3pQwC',
+      etag: 'd5vfoRz+1fw',
+      selfLink: 'https://www.googleapis.com/books/v1/volumes/LiiMo1q3pQwC',
+      volumeInfo: {
+        title: 'Love of Quilts',
+        subtitle: 'A Treasury of Classic Quilting Stories',
+        authors: [
+          'Cuesta Benberry',
+          'Carol Pinney Crabb',
+        ],
+        publisher: 'Voyageur Press (MN)',
+        publishedDate: '2004-03-11',
+        description: "There are more than 20 million quilters in the United States, and 78 percent of dedicated quilters read for pleasure. To reach this vast group, we've expanded our line of quilting books by bringing back \"A Patchwork of Pieces, previously published in 1993. \"Love of Quilts features twenty-eight entertaining short stories about quilts and quilters collected from the pages of classic magazines such as \"Godey's Lady's Book, Harper's Bazaar, and \"Good Housekeeping, introducing readers to the captivating worlds of quilters in other times and places. From courtings that nearly go astray to husbands and wives brought together by quilts to quilters obsessed with securing scraps, \"Love of Quilts has something for every quilter. Fascinating fiction, these stories also provide important social history. This book also includes a bibliography of quilt fiction and a time line that lists American quilt fiction, plays, poems, and patterns published from 1845 to 1940.",
+        industryIdentifiers: [
+          {
+            type: 'ISBN_10',
+            identifier: '0896580822',
+          },
+          {
+            type: 'ISBN_13',
+            identifier: '9780896580824',
+          },
+        ],
+        readingModes: {
+          text: false,
+          image: true,
+        },
+        pageCount: 360,
+        printType: 'BOOK',
+        categories: [
+          'Crafts & Hobbies',
+        ],
+        maturityRating: 'NOT_MATURE',
+        allowAnonLogging: false,
+        contentVersion: '1.0.0.0.preview.1',
+        imageLinks: {
+          smallThumbnail: 'http://books.google.com/books/content?id=LiiMo1q3pQwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api',
+          thumbnail: 'http://books.google.com/books/content?id=LiiMo1q3pQwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api',
+        },
+        language: 'en',
+        previewLink: 'http://books.google.co.in/books?id=LiiMo1q3pQwC&printsec=frontcover&dq=quiltting&hl=&cd=2&source=gbs_api',
+        infoLink: 'http://books.google.co.in/books?id=LiiMo1q3pQwC&dq=quiltting&hl=&source=gbs_api',
+        canonicalVolumeLink: 'https://books.google.com/books/about/Love_of_Quilts.html?hl=&id=LiiMo1q3pQwC',
+      },
+      saleInfo: {
+        country: 'IN',
+        saleability: 'NOT_FOR_SALE',
+        isEbook: false,
+      },
+      accessInfo: {
+        country: 'IN',
+        viewability: 'PARTIAL',
+        embeddable: true,
+        publicDomain: false,
+        textToSpeechPermission: 'ALLOWED',
+        epub: {
+          isAvailable: false,
+        },
+        pdf: {
+          isAvailable: true,
+          acsTokenLink: 'http://books.google.co.in/books/download/Love_of_Quilts-sample-pdf.acsm?id=LiiMo1q3pQwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api',
+        },
+        webReaderLink: 'http://play.google.com/books/reader?id=LiiMo1q3pQwC&hl=&printsec=frontcover&source=gbs_api',
+        accessViewStatus: 'SAMPLE',
+        quoteSharingAllowed: false,
+      },
+      searchInfo: {
+        textSnippet: 'Fascinating fiction, these stories also provide important social history. This book also includes a bibliography of quilt fiction and a time line that lists American quilt fiction, plays, poems, and patterns published from 1845 to 1940.',
+      },
+    },
+    {
+      kind: 'books#volume',
+      id: 'jCbhV37Cpw8C',
+      etag: 'phEVnnvRYMk',
+      selfLink: 'https://www.googleapis.com/books/v1/volumes/jCbhV37Cpw8C',
+      volumeInfo: {
+        title: 'Quilting in Black and White',
+        authors: [
+          'House of White Birches',
+        ],
+        publisher: 'Leisure Arts',
+        publishedDate: '2012',
+        description: 'Black and white quilts have become a hot new trend for quilters of all ages. A seemingly simple pattern can be dramatically updated merely by adding a little black and white fabric into the design. The book includes projects that are completely black and white and also includes designs that have splashes of colour, or just splashes of black and white. Quilters will love the variety of designs, from an adorable cat wall hanging to a bold bed quilt made up of black, white and bright yellow fabrics. Techniques used include applique, patchwork and foundation piecing. Each design is shown in a lifestyle photograph, has an assembly diagram and is accompanied by a complete materials list and step-by-step instructions.',
+        industryIdentifiers: [
+          {
+            type: 'ISBN_13',
+            identifier: '9781609003586',
+          },
+          {
+            type: 'ISBN_10',
+            identifier: '1609003586',
+          },
+        ],
+        readingModes: {
+          text: false,
+          image: true,
+        },
+        pageCount: 64,
+        printType: 'BOOK',
+        categories: [
+          'Crafts & Hobbies',
+        ],
+        averageRating: 5.0,
+        ratingsCount: 1,
+        maturityRating: 'NOT_MATURE',
+        allowAnonLogging: false,
+        contentVersion: '0.6.0.0.preview.1',
+        imageLinks: {
+          smallThumbnail: 'http://books.google.com/books/content?id=jCbhV37Cpw8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api',
+          thumbnail: 'http://books.google.com/books/content?id=jCbhV37Cpw8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api',
+        },
+        language: 'en',
+        previewLink: 'http://books.google.co.in/books?id=jCbhV37Cpw8C&printsec=frontcover&dq=quiltting&hl=&cd=3&source=gbs_api',
+        infoLink: 'http://books.google.co.in/books?id=jCbhV37Cpw8C&dq=quiltting&hl=&source=gbs_api',
+        canonicalVolumeLink: 'https://books.google.com/books/about/Quilting_in_Black_and_White.html?hl=&id=jCbhV37Cpw8C',
+      },
+      saleInfo: {
+        country: 'IN',
+        saleability: 'NOT_FOR_SALE',
+        isEbook: false,
+      },
+      accessInfo: {
+        country: 'IN',
+        viewability: 'PARTIAL',
+        embeddable: true,
+        publicDomain: false,
+        textToSpeechPermission: 'ALLOWED',
+        epub: {
+          isAvailable: false,
+        },
+        pdf: {
+          isAvailable: false,
+        },
+        webReaderLink: 'http://play.google.com/books/reader?id=jCbhV37Cpw8C&hl=&printsec=frontcover&source=gbs_api',
+        accessViewStatus: 'SAMPLE',
+        quoteSharingAllowed: false,
+      },
+      searchInfo: {
+        textSnippet: 'Black and white quilts have become a hot new trend for quilters of all ages.',
+      },
+    },
+    {
+      kind: 'books#volume',
+      id: 'dzjGL7cMGOsC',
+      etag: '5/scemMmLvk',
+      selfLink: 'https://www.googleapis.com/books/v1/volumes/dzjGL7cMGOsC',
+      volumeInfo: {
+        title: 'All about Quilting from A to Z.',
+        publisher: 'C & T Pub',
+        publishedDate: '2002',
+        description: 'Looks at all aspects of quilting, covering such topics as fabric, batting, quilting tools, applique, embellishment, and stamping.',
+        industryIdentifiers: [
+          {
+            type: 'ISBN_10',
+            identifier: '1571201823',
+          },
+          {
+            type: 'ISBN_13',
+            identifier: '9781571201829',
+          },
+        ],
+        readingModes: {
+          text: false,
+          image: false,
+        },
+        pageCount: 256,
+        printType: 'BOOK',
+        categories: [
+          'Crafts & Hobbies',
+        ],
+        averageRating: 4.0,
+        ratingsCount: 1,
+        maturityRating: 'NOT_MATURE',
+        allowAnonLogging: false,
+        contentVersion: '1.1.0.0.preview.0',
+        imageLinks: {
+          smallThumbnail: 'http://books.google.com/books/content?id=dzjGL7cMGOsC&printsec=frontcover&img=1&zoom=5&source=gbs_api',
+          thumbnail: 'http://books.google.com/books/content?id=dzjGL7cMGOsC&printsec=frontcover&img=1&zoom=1&source=gbs_api',
+        },
+        language: 'en',
+        previewLink: 'http://books.google.co.in/books?id=dzjGL7cMGOsC&dq=quiltting&hl=&cd=4&source=gbs_api',
+        infoLink: 'http://books.google.co.in/books?id=dzjGL7cMGOsC&dq=quiltting&hl=&source=gbs_api',
+        canonicalVolumeLink: 'https://books.google.com/books/about/All_about_Quilting_from_A_to_Z.html?hl=&id=dzjGL7cMGOsC',
+      },
+      saleInfo: {
+        country: 'IN',
+        saleability: 'NOT_FOR_SALE',
+        isEbook: false,
+      },
+      accessInfo: {
+        country: 'IN',
+        viewability: 'NO_PAGES',
+        embeddable: false,
+        publicDomain: false,
+        textToSpeechPermission: 'ALLOWED',
+        epub: {
+          isAvailable: false,
+        },
+        pdf: {
+          isAvailable: true,
+        },
+        webReaderLink: 'http://play.google.com/books/reader?id=dzjGL7cMGOsC&hl=&printsec=frontcover&source=gbs_api',
+        accessViewStatus: 'NONE',
+        quoteSharingAllowed: false,
+      },
+      searchInfo: {
+        textSnippet: 'Looks at all aspects of quilting, covering such topics as fabric, batting, quilting tools, applique, embellishment, and stamping.',
+      },
+    },
+    {
+      kind: 'books#volume',
+      id: 'Vu-umzX_Kb0C',
+      etag: 'vqCDrxHC5zs',
+      selfLink: 'https://www.googleapis.com/books/v1/volumes/Vu-umzX_Kb0C',
+      volumeInfo: {
+        title: 'Free Stuff for Quilters on the Internet',
+        authors: [
+          'Judy Heim',
+          'Gloria Hansen',
+        ],
+        publisher: 'C&T Publishing Inc',
+        publishedDate: '2001',
+        description: 'Lists quilting-related web sites that offer free things, including patterns, swaps, and advice on everything from materials and techniques to appraising and cleaning quilts.',
+        industryIdentifiers: [
+          {
+            type: 'ISBN_10',
+            identifier: '1571201580',
+          },
+          {
+            type: 'ISBN_13',
+            identifier: '9781571201584',
+          },
+        ],
+        readingModes: {
+          text: false,
+          image: false,
+        },
+        pageCount: 223,
+        printType: 'BOOK',
+        categories: [
+          'Crafts & Hobbies',
+        ],
+        averageRating: 2.0,
+        ratingsCount: 1,
+        maturityRating: 'NOT_MATURE',
+        allowAnonLogging: false,
+        contentVersion: 'preview-1.0.0',
+        imageLinks: {
+          smallThumbnail: 'http://books.google.com/books/content?id=Vu-umzX_Kb0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api',
+          thumbnail: 'http://books.google.com/books/content?id=Vu-umzX_Kb0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api',
+        },
+        language: 'en',
+        previewLink: 'http://books.google.co.in/books?id=Vu-umzX_Kb0C&printsec=frontcover&dq=quiltting&hl=&cd=5&source=gbs_api',
+        infoLink: 'http://books.google.co.in/books?id=Vu-umzX_Kb0C&dq=quiltting&hl=&source=gbs_api',
+        canonicalVolumeLink: 'https://books.google.com/books/about/Free_Stuff_for_Quilters_on_the_Internet.html?hl=&id=Vu-umzX_Kb0C',
+      },
+      saleInfo: {
+        country: 'IN',
+        saleability: 'NOT_FOR_SALE',
+        isEbook: false,
+      },
+      accessInfo: {
+        country: 'IN',
+        viewability: 'PARTIAL',
+        embeddable: true,
+        publicDomain: false,
+        textToSpeechPermission: 'ALLOWED',
+        epub: {
+          isAvailable: false,
+        },
+        pdf: {
+          isAvailable: false,
+        },
+        webReaderLink: 'http://play.google.com/books/reader?id=Vu-umzX_Kb0C&hl=&printsec=frontcover&source=gbs_api',
+        accessViewStatus: 'SAMPLE',
+        quoteSharingAllowed: false,
+      },
+      searchInfo: {
+        textSnippet: 'Lists quilting-related web sites that offer free things, including patterns, swaps, and advice on everything from materials and techniques to appraising and cleaning quilts.',
+      },
+    },
+    {
+      kind: 'books#volume',
+      id: 'heFRCwAAQBAJ',
+      etag: 'fBK6PnGPmnY',
+      selfLink: 'https://www.googleapis.com/books/v1/volumes/heFRCwAAQBAJ',
+      volumeInfo: {
+        title: 'Amish Quilting Patterns',
+        authors: [
+          'Gwen Marston',
+          'Joe Cunningham',
+        ],
+        publisher: 'Courier Corporation',
+        publishedDate: '1987',
+        description: 'Briefly describes the history of Amish quilts, explains how to make and use patterns, and provides a selection of traditional quilting designs',
+        industryIdentifiers: [
+          {
+            type: 'ISBN_13',
+            identifier: '9780486253268',
+          },
+          {
+            type: 'ISBN_10',
+            identifier: '0486253260',
+          },
+        ],
+        readingModes: {
+          text: false,
+          image: true,
+        },
+        pageCount: 12,
+        printType: 'BOOK',
+        categories: [
+          'Crafts & Hobbies',
+        ],
+        maturityRating: 'NOT_MATURE',
+        allowAnonLogging: false,
+        contentVersion: '1.4.1.0.preview.1',
+        panelizationSummary: {
+          containsEpubBubbles: false,
+          containsImageBubbles: false,
+        },
+        imageLinks: {
+          smallThumbnail: 'http://books.google.com/books/content?id=heFRCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api',
+          thumbnail: 'http://books.google.com/books/content?id=heFRCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api',
+        },
+        language: 'en',
+        previewLink: 'http://books.google.co.in/books?id=heFRCwAAQBAJ&printsec=frontcover&dq=quiltting&hl=&cd=6&source=gbs_api',
+        infoLink: 'http://books.google.co.in/books?id=heFRCwAAQBAJ&dq=quiltting&hl=&source=gbs_api',
+        canonicalVolumeLink: 'https://books.google.com/books/about/Amish_Quilting_Patterns.html?hl=&id=heFRCwAAQBAJ',
+      },
+      saleInfo: {
+        country: 'IN',
+        saleability: 'NOT_FOR_SALE',
+        isEbook: false,
+      },
+      accessInfo: {
+        country: 'IN',
+        viewability: 'PARTIAL',
+        embeddable: true,
+        publicDomain: false,
+        textToSpeechPermission: 'ALLOWED',
+        epub: {
+          isAvailable: false,
+        },
+        pdf: {
+          isAvailable: false,
+        },
+        webReaderLink: 'http://play.google.com/books/reader?id=heFRCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api',
+        accessViewStatus: 'SAMPLE',
+        quoteSharingAllowed: false,
+      },
+      searchInfo: {
+        textSnippet: 'Briefly describes the history of Amish quilts, explains how to make and use patterns, and provides a selection of traditional quilting designs',
+      },
+    },
+    {
+      kind: 'books#volume',
+      id: '-sVZAAAAMAAJ',
+      etag: 'QJT1nZrQZCc',
+      selfLink: 'https://www.googleapis.com/books/v1/volumes/-sVZAAAAMAAJ',
+      volumeInfo: {
+        title: 'Quilts as text(iles)',
+        subtitle: 'the semiotics of quilting',
+        authors: [
+          'Judy Elsley',
+        ],
+        publisher: 'Peter Lang Pub Inc',
+        publishedDate: '1996',
+        industryIdentifiers: [
+          {
+            type: 'OTHER',
+            identifier: 'UOM:39015041025449',
+          },
+        ],
+        readingModes: {
+          text: false,
+          image: false,
+        },
+        pageCount: 82,
+        printType: 'BOOK',
+        categories: [
+          'Crafts & Hobbies',
+        ],
+        maturityRating: 'NOT_MATURE',
+        allowAnonLogging: false,
+        contentVersion: 'preview-1.0.0',
+        imageLinks: {
+          smallThumbnail: 'http://books.google.com/books/content?id=-sVZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api',
+          thumbnail: 'http://books.google.com/books/content?id=-sVZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api',
+        },
+        language: 'en',
+        previewLink: 'http://books.google.co.in/books?id=-sVZAAAAMAAJ&q=quiltting&dq=quiltting&hl=&cd=7&source=gbs_api',
+        infoLink: 'http://books.google.co.in/books?id=-sVZAAAAMAAJ&dq=quiltting&hl=&source=gbs_api',
+        canonicalVolumeLink: 'https://books.google.com/books/about/Quilts_as_text_iles.html?hl=&id=-sVZAAAAMAAJ',
+      },
+      saleInfo: {
+        country: 'IN',
+        saleability: 'NOT_FOR_SALE',
+        isEbook: false,
+      },
+      accessInfo: {
+        country: 'IN',
+        viewability: 'NO_PAGES',
+        embeddable: false,
+        publicDomain: false,
+        textToSpeechPermission: 'ALLOWED',
+        epub: {
+          isAvailable: false,
+        },
+        pdf: {
+          isAvailable: false,
+        },
+        webReaderLink: 'http://play.google.com/books/reader?id=-sVZAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api',
+        accessViewStatus: 'NONE',
+        quoteSharingAllowed: false,
+      },
+    },
+    {
+      kind: 'books#volume',
+      id: '5COuiIMigNoC',
+      etag: 'j3I3xw7WtN8',
+      selfLink: 'https://www.googleapis.com/books/v1/volumes/5COuiIMigNoC',
+      volumeInfo: {
+        title: 'Your First Quilt Book (or it Should Be!)',
+        authors: [
+          'Carol Doak',
+        ],
+        publisher: 'Martingale & Company Incorporated',
+        publishedDate: '1997',
+        description: 'Learn about the tools, supplies, and techniques you need to create simple patchwork quilts. Eight small projects are provided to help you practice your new hand-or machine-stitching skills.',
+        industryIdentifiers: [
+          {
+            type: 'ISBN_10',
+            identifier: '1564771989',
+          },
+          {
+            type: 'ISBN_13',
+            identifier: '9781564771988',
+          },
+        ],
+        readingModes: {
+          text: false,
+          image: false,
+        },
+        pageCount: 224,
+        printType: 'BOOK',
+        categories: [
+          'Crafts & Hobbies',
+        ],
+        averageRating: 4.5,
+        ratingsCount: 3,
+        maturityRating: 'NOT_MATURE',
+        allowAnonLogging: false,
+        contentVersion: '1.1.2.0.preview.0',
+        panelizationSummary: {
+          containsEpubBubbles: false,
+          containsImageBubbles: false,
+        },
+        imageLinks: {
+          smallThumbnail: 'http://books.google.com/books/content?id=5COuiIMigNoC&printsec=frontcover&img=1&zoom=5&source=gbs_api',
+          thumbnail: 'http://books.google.com/books/content?id=5COuiIMigNoC&printsec=frontcover&img=1&zoom=1&source=gbs_api',
+        },
+        language: 'en',
+        previewLink: 'http://books.google.co.in/books?id=5COuiIMigNoC&q=quiltting&dq=quiltting&hl=&cd=8&source=gbs_api',
+        infoLink: 'http://books.google.co.in/books?id=5COuiIMigNoC&dq=quiltting&hl=&source=gbs_api',
+        canonicalVolumeLink: 'https://books.google.com/books/about/Your_First_Quilt_Book_or_it_Should_Be.html?hl=&id=5COuiIMigNoC',
+      },
+      saleInfo: {
+        country: 'IN',
+        saleability: 'NOT_FOR_SALE',
+        isEbook: false,
+      },
+      accessInfo: {
+        country: 'IN',
+        viewability: 'NO_PAGES',
+        embeddable: false,
+        publicDomain: false,
+        textToSpeechPermission: 'ALLOWED',
+        epub: {
+          isAvailable: false,
+        },
+        pdf: {
+          isAvailable: false,
+        },
+        webReaderLink: 'http://play.google.com/books/reader?id=5COuiIMigNoC&hl=&printsec=frontcover&source=gbs_api',
+        accessViewStatus: 'NONE',
+        quoteSharingAllowed: false,
+      },
+      searchInfo: {
+        textSnippet: 'Learn about the tools, supplies, and techniques you need to create simple patchwork quilts. Eight small projects are provided to help you practice your new hand-or machine-stitching skills.',
+      },
+    },
+    {
+      kind: 'books#volume',
+      id: 'XNXuOOkd9igC',
+      etag: 'z412njzFcqM',
+      selfLink: 'https://www.googleapis.com/books/v1/volumes/XNXuOOkd9igC',
+      volumeInfo: {
+        title: 'Quilting a Life',
+        subtitle: 'Piecing Together Livelihood, Lifestyle, and Life Dreams',
+        authors: [
+          'Michele Claybrook-Lucas',
+        ],
+        publisher: 'Infinity Publishing',
+        publishedDate: '2003-11',
+        industryIdentifiers: [
+          {
+            type: 'ISBN_13',
+            identifier: '9780741416803',
+          },
+          {
+            type: 'ISBN_10',
+            identifier: '0741416808',
+          },
+        ],
+        readingModes: {
+          text: true,
+          image: false,
+        },
+        pageCount: 164,
+        printType: 'BOOK',
+        categories: [
+          'Self-Help',
+        ],
+        maturityRating: 'NOT_MATURE',
+        allowAnonLogging: false,
+        contentVersion: '0.1.2.0.preview.2',
+        imageLinks: {
+          smallThumbnail: 'http://books.google.com/books/content?id=XNXuOOkd9igC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api',
+          thumbnail: 'http://books.google.com/books/content?id=XNXuOOkd9igC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api',
+        },
+        language: 'en',
+        previewLink: 'http://books.google.co.in/books?id=XNXuOOkd9igC&printsec=frontcover&dq=quiltting&hl=&cd=9&source=gbs_api',
+        infoLink: 'http://books.google.co.in/books?id=XNXuOOkd9igC&dq=quiltting&hl=&source=gbs_api',
+        canonicalVolumeLink: 'https://books.google.com/books/about/Quilting_a_Life.html?hl=&id=XNXuOOkd9igC',
+      },
+      saleInfo: {
+        country: 'IN',
+        saleability: 'NOT_FOR_SALE',
+        isEbook: false,
+      },
+      accessInfo: {
+        country: 'IN',
+        viewability: 'PARTIAL',
+        embeddable: true,
+        publicDomain: false,
+        textToSpeechPermission: 'ALLOWED',
+        epub: {
+          isAvailable: true,
+          acsTokenLink: 'http://books.google.co.in/books/download/Quilting_a_Life-sample-epub.acsm?id=XNXuOOkd9igC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api',
+        },
+        pdf: {
+          isAvailable: false,
+        },
+        webReaderLink: 'http://play.google.com/books/reader?id=XNXuOOkd9igC&hl=&printsec=frontcover&source=gbs_api',
+        accessViewStatus: 'SAMPLE',
+        quoteSharingAllowed: false,
+      },
+    },
+    {
+      kind: 'books#volume',
+      id: 'fUgj6cpxXJYC',
+      etag: 'CTw0OoDKy/w',
+      selfLink: 'https://www.googleapis.com/books/v1/volumes/fUgj6cpxXJYC',
+      volumeInfo: {
+        title: '5,500 Quilt Block Designs',
+        authors: [
+          'Maggie Malone',
+        ],
+        publisher: 'Sterling Publishing Company, Inc.',
+        publishedDate: '2005',
+        description: 'Collects 5,500 named patchwork patterns from varying sources, ranging from some that go back generations to modern ones, and arranges them by the number of squares to a block to allow easy mixing and matching.',
+        industryIdentifiers: [
+          {
+            type: 'ISBN_10',
+            identifier: '1402720475',
+          },
+          {
+            type: 'ISBN_13',
+            identifier: '9781402720475',
+          },
+        ],
+        readingModes: {
+          text: false,
+          image: true,
+        },
+        pageCount: 448,
+        printType: 'BOOK',
+        categories: [
+          'Crafts & Hobbies',
+        ],
+        averageRating: 4.5,
+        ratingsCount: 2,
+        maturityRating: 'NOT_MATURE',
+        allowAnonLogging: false,
+        contentVersion: '2.1.1.0.preview.1',
+        panelizationSummary: {
+          containsEpubBubbles: false,
+          containsImageBubbles: false,
+        },
+        imageLinks: {
+          smallThumbnail: 'http://books.google.com/books/content?id=fUgj6cpxXJYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api',
+          thumbnail: 'http://books.google.com/books/content?id=fUgj6cpxXJYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api',
+        },
+        language: 'en',
+        previewLink: 'http://books.google.co.in/books?id=fUgj6cpxXJYC&printsec=frontcover&dq=quiltting&hl=&cd=10&source=gbs_api',
+        infoLink: 'http://books.google.co.in/books?id=fUgj6cpxXJYC&dq=quiltting&hl=&source=gbs_api',
+        canonicalVolumeLink: 'https://books.google.com/books/about/5_500_Quilt_Block_Designs.html?hl=&id=fUgj6cpxXJYC',
+      },
+      saleInfo: {
+        country: 'IN',
+        saleability: 'NOT_FOR_SALE',
+        isEbook: false,
+      },
+      accessInfo: {
+        country: 'IN',
+        viewability: 'PARTIAL',
+        embeddable: true,
+        publicDomain: false,
+        textToSpeechPermission: 'ALLOWED',
+        epub: {
+          isAvailable: false,
+        },
+        pdf: {
+          isAvailable: false,
+        },
+        webReaderLink: 'http://play.google.com/books/reader?id=fUgj6cpxXJYC&hl=&printsec=frontcover&source=gbs_api',
+        accessViewStatus: 'SAMPLE',
+        quoteSharingAllowed: false,
+      },
+      searchInfo: {
+        textSnippet: 'Collects 5,500 named patchwork patterns from varying sources, ranging from some that go back generations to modern ones, and arranges them by the number of squares to a block to allow easy mixing and matching.',
+      },
+    },
+  ],
+};

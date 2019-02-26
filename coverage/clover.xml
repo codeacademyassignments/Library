@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1551161777628" clover="3.2.0">
+  <project timestamp="1551161777628" name="All files">
+    <metrics statements="42" coveredstatements="39" conditionals="17" coveredconditionals="16" methods="16" coveredmethods="14" elements="75" coveredelements="69" complexity="0" loc="42" ncloc="42" packages="8" files="12" classes="12"/>
+    <package name="Components.BookAuthorBar">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="BookAuthorBar.js" path="/Users/Pulkit_Agarwal-BNG/Assignments/ReactNative/Library/src/Components/BookAuthorBar/BookAuthorBar.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="8" count="29" type="stmt"/>
+        <line num="9" count="40" type="stmt"/>
+        <line num="10" count="40" type="stmt"/>
+        <line num="12" count="29" type="stmt"/>
+        <line num="16" count="29" type="stmt"/>
+        <line num="17" count="29" type="stmt"/>
+        <line num="25" count="3" type="stmt"/>
+      </file>
+      <file name="BookAuthorBar.style.js" path="/Users/Pulkit_Agarwal-BNG/Assignments/ReactNative/Library/src/Components/BookAuthorBar/BookAuthorBar.style.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="Components.BookCard">
+      <metrics statements="8" coveredstatements="8" conditionals="13" coveredconditionals="13" methods="4" coveredmethods="4"/>
+      <file name="BookCard.component.js" path="/Users/Pulkit_Agarwal-BNG/Assignments/ReactNative/Library/src/Components/BookCard/BookCard.component.js">
+        <metrics statements="8" coveredstatements="8" conditionals="13" coveredconditionals="13" methods="4" coveredmethods="4"/>
+        <line num="13" count="39" type="cond" truecount="4" falsecount="0"/>
+        <line num="19" count="39" type="cond" truecount="4" falsecount="0"/>
+        <line num="26" count="39" type="cond" truecount="5" falsecount="0"/>
+        <line num="35" count="37" type="stmt"/>
+        <line num="38" count="37" type="stmt"/>
+        <line num="44" count="37" type="stmt"/>
+        <line num="60" count="2" type="stmt"/>
+        <line num="72" count="2" type="stmt"/>
+      </file>
+      <file name="BookCard.style.js" path="/Users/Pulkit_Agarwal-BNG/Assignments/ReactNative/Library/src/Components/BookCard/BookCard.style.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="Components.BooksOnSearchKey">
+      <metrics statements="16" coveredstatements="15" conditionals="4" coveredconditionals="3" methods="5" coveredmethods="4"/>
+      <file name="BooksOnSearchKey.component.js" path="/Users/Pulkit_Agarwal-BNG/Assignments/ReactNative/Library/src/Components/BooksOnSearchKey/BooksOnSearchKey.component.js">
+        <metrics statements="16" coveredstatements="15" conditionals="4" coveredconditionals="3" methods="5" coveredmethods="4"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="20" count="5" type="stmt"/>
+        <line num="21" count="5" type="stmt"/>
+        <line num="22" count="5" type="cond" truecount="1" falsecount="1"/>
+        <line num="23" count="5" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="25" count="4" type="stmt"/>
+        <line num="30" count="10" type="stmt"/>
+        <line num="31" count="10" type="stmt"/>
+        <line num="32" count="80" type="stmt"/>
+        <line num="33" count="80" type="stmt"/>
+        <line num="38" count="12" type="stmt"/>
+        <line num="39" count="12" type="cond" truecount="2" falsecount="0"/>
+        <line num="40" count="3" type="stmt"/>
+        <line num="44" count="9" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="Components.SearchBooks">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <file name="SearchBooks.component.js" path="/Users/Pulkit_Agarwal-BNG/Assignments/ReactNative/Library/src/Components/SearchBooks/SearchBooks.component.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+        <line num="15" count="3" type="stmt"/>
+        <line num="16" count="3" type="stmt"/>
+        <line num="17" count="3" type="stmt"/>
+        <line num="23" count="6" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+      </file>
+      <file name="SearchBooks.style.js" path="/Users/Pulkit_Agarwal-BNG/Assignments/ReactNative/Library/src/Components/SearchBooks/SearchBooks.style.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="Helper">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <file name="GetBooksOnSearchKey.js" path="/Users/Pulkit_Agarwal-BNG/Assignments/ReactNative/Library/src/Helper/GetBooksOnSearchKey.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="6" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="Images">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="defaultBook.jpg" path="/Users/Pulkit_Agarwal-BNG/Assignments/ReactNative/Library/src/Images/defaultBook.jpg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="2" type="stmt"/>
+      </file>
+      <file name="library.jpg" path="/Users/Pulkit_Agarwal-BNG/Assignments/ReactNative/Library/src/Images/library.jpg">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="TestData">
+      <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="TestData.js" path="/Users/Pulkit_Agarwal-BNG/Assignments/ReactNative/Library/src/TestData/TestData.js">
+        <metrics statements="0" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      </file>
+    </package>
+    <package name="URL">
+      <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <file name="Books.url.js" path="/Users/Pulkit_Agarwal-BNG/Assignments/ReactNative/Library/src/URL/Books.url.js">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="1" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>

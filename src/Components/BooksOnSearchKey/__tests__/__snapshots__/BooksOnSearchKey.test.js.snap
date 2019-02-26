@@ -1,0 +1,1157 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BooksOnSearchKey should match old snapshot 1`] = `
+<RCTScrollView>
+  <View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "height": 200,
+          "marginBottom": 10,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "http://books.google.com/books/content?id=Ym4usUyOmNEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+            "marginTop": 0,
+            "maxHeight": 200,
+            "paddingTop": 0,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "height": 200,
+            "justifyContent": "space-between",
+            "overflow": "hidden",
+            "paddingLeft": 10,
+            "paddingRight": 20,
+          }
+        }
+      >
+        <View>
+          <Text
+            adjustsFontSizeToFit={true}
+            numberOfLines={2}
+            style={
+              Object {
+                "fontSize": 20,
+                "fontWeight": "900",
+              }
+            }
+          >
+            Free-Motion Quilting with Angela Walters
+          </Text>
+          <View
+            style={
+              Object {
+                "height": 15,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                  "fontWeight": "100",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontSize": 10,
+                    "marginRight": 10,
+                  }
+                }
+              >
+                Angela Walters
+              </Text>
+            </View>
+          </View>
+        </View>
+        <Text
+          adjustsFontSizeToFit={true}
+          numberOfLines={2}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "700",
+              "marginTop": 10,
+            }
+          }
+        >
+          Choose & Use Quilting Designs on Modern Quilts
+        </Text>
+        <View
+          style={
+            Object {
+              "fontSize": 12,
+              "marginTop": 10,
+            }
+          }
+        >
+          <RCTScrollView>
+            <View>
+              <Text
+                adjustsFontSizeToFit={true}
+              >
+                Popular machine quilter Angela Walters will motivate you to try something new! Learn to stitch her fresh continuous-line designs on your longarm or domestic machine. Includes step-by-step instructions for continuous-line swirls, circles, squares, vines, arcs, and points. Using basic free-motion skills you already have, discover how to approach quilting a modern quilt by working with bold fabrics and negative space, uniting a variety of shapes, and blending designs. Draw inspiration from striking pictures of 20 modern quilts showing Angela’s designs. You’ll love her practical advice for choosing the perfect pattern to give your modern quilt maximum impact.
+              </Text>
+            </View>
+          </RCTScrollView>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "height": 200,
+          "marginBottom": 10,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "http://books.google.com/books/content?id=LiiMo1q3pQwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+            "marginTop": 0,
+            "maxHeight": 200,
+            "paddingTop": 0,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "height": 200,
+            "justifyContent": "space-between",
+            "overflow": "hidden",
+            "paddingLeft": 10,
+            "paddingRight": 20,
+          }
+        }
+      >
+        <View>
+          <Text
+            adjustsFontSizeToFit={true}
+            numberOfLines={2}
+            style={
+              Object {
+                "fontSize": 20,
+                "fontWeight": "900",
+              }
+            }
+          >
+            Love of Quilts
+          </Text>
+          <View
+            style={
+              Object {
+                "height": 15,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                  "fontWeight": "100",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontSize": 10,
+                    "marginRight": 10,
+                  }
+                }
+              >
+                Cuesta Benberry
+              </Text>
+              <Text
+                style={
+                  Object {
+                    "fontSize": 10,
+                    "marginRight": 10,
+                  }
+                }
+              >
+                Carol Pinney Crabb
+              </Text>
+            </View>
+          </View>
+        </View>
+        <Text
+          adjustsFontSizeToFit={true}
+          numberOfLines={2}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "700",
+              "marginTop": 10,
+            }
+          }
+        >
+          A Treasury of Classic Quilting Stories
+        </Text>
+        <View
+          style={
+            Object {
+              "fontSize": 12,
+              "marginTop": 10,
+            }
+          }
+        >
+          <RCTScrollView>
+            <View>
+              <Text
+                adjustsFontSizeToFit={true}
+              >
+                There are more than 20 million quilters in the United States, and 78 percent of dedicated quilters read for pleasure. To reach this vast group, we've expanded our line of quilting books by bringing back "A Patchwork of Pieces, previously published in 1993. "Love of Quilts features twenty-eight entertaining short stories about quilts and quilters collected from the pages of classic magazines such as "Godey's Lady's Book, Harper's Bazaar, and "Good Housekeeping, introducing readers to the captivating worlds of quilters in other times and places. From courtings that nearly go astray to husbands and wives brought together by quilts to quilters obsessed with securing scraps, "Love of Quilts has something for every quilter. Fascinating fiction, these stories also provide important social history. This book also includes a bibliography of quilt fiction and a time line that lists American quilt fiction, plays, poems, and patterns published from 1845 to 1940.
+              </Text>
+            </View>
+          </RCTScrollView>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "height": 200,
+          "marginBottom": 10,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "http://books.google.com/books/content?id=jCbhV37Cpw8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+            "marginTop": 0,
+            "maxHeight": 200,
+            "paddingTop": 0,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "height": 200,
+            "justifyContent": "space-between",
+            "overflow": "hidden",
+            "paddingLeft": 10,
+            "paddingRight": 20,
+          }
+        }
+      >
+        <View>
+          <Text
+            adjustsFontSizeToFit={true}
+            numberOfLines={2}
+            style={
+              Object {
+                "fontSize": 20,
+                "fontWeight": "900",
+              }
+            }
+          >
+            Quilting in Black and White
+          </Text>
+          <View
+            style={
+              Object {
+                "height": 15,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                  "fontWeight": "100",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontSize": 10,
+                    "marginRight": 10,
+                  }
+                }
+              >
+                House of White Birches
+              </Text>
+            </View>
+          </View>
+        </View>
+        <Text
+          adjustsFontSizeToFit={true}
+          numberOfLines={2}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "700",
+              "marginTop": 10,
+            }
+          }
+        >
+          
+        </Text>
+        <View
+          style={
+            Object {
+              "fontSize": 12,
+              "marginTop": 10,
+            }
+          }
+        >
+          <RCTScrollView>
+            <View>
+              <Text
+                adjustsFontSizeToFit={true}
+              >
+                Black and white quilts have become a hot new trend for quilters of all ages. A seemingly simple pattern can be dramatically updated merely by adding a little black and white fabric into the design. The book includes projects that are completely black and white and also includes designs that have splashes of colour, or just splashes of black and white. Quilters will love the variety of designs, from an adorable cat wall hanging to a bold bed quilt made up of black, white and bright yellow fabrics. Techniques used include applique, patchwork and foundation piecing. Each design is shown in a lifestyle photograph, has an assembly diagram and is accompanied by a complete materials list and step-by-step instructions.
+              </Text>
+            </View>
+          </RCTScrollView>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "height": 200,
+          "marginBottom": 10,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "http://books.google.com/books/content?id=dzjGL7cMGOsC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+            "marginTop": 0,
+            "maxHeight": 200,
+            "paddingTop": 0,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "height": 200,
+            "justifyContent": "space-between",
+            "overflow": "hidden",
+            "paddingLeft": 10,
+            "paddingRight": 20,
+          }
+        }
+      >
+        <View>
+          <Text
+            adjustsFontSizeToFit={true}
+            numberOfLines={2}
+            style={
+              Object {
+                "fontSize": 20,
+                "fontWeight": "900",
+              }
+            }
+          >
+            All about Quilting from A to Z.
+          </Text>
+          <View
+            style={
+              Object {
+                "height": 15,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                  "fontWeight": "100",
+                }
+              }
+            />
+          </View>
+        </View>
+        <Text
+          adjustsFontSizeToFit={true}
+          numberOfLines={2}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "700",
+              "marginTop": 10,
+            }
+          }
+        >
+          
+        </Text>
+        <View
+          style={
+            Object {
+              "fontSize": 12,
+              "marginTop": 10,
+            }
+          }
+        >
+          <RCTScrollView>
+            <View>
+              <Text
+                adjustsFontSizeToFit={true}
+              >
+                Looks at all aspects of quilting, covering such topics as fabric, batting, quilting tools, applique, embellishment, and stamping.
+              </Text>
+            </View>
+          </RCTScrollView>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "height": 200,
+          "marginBottom": 10,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "http://books.google.com/books/content?id=Vu-umzX_Kb0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+            "marginTop": 0,
+            "maxHeight": 200,
+            "paddingTop": 0,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "height": 200,
+            "justifyContent": "space-between",
+            "overflow": "hidden",
+            "paddingLeft": 10,
+            "paddingRight": 20,
+          }
+        }
+      >
+        <View>
+          <Text
+            adjustsFontSizeToFit={true}
+            numberOfLines={2}
+            style={
+              Object {
+                "fontSize": 20,
+                "fontWeight": "900",
+              }
+            }
+          >
+            Free Stuff for Quilters on the Internet
+          </Text>
+          <View
+            style={
+              Object {
+                "height": 15,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                  "fontWeight": "100",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontSize": 10,
+                    "marginRight": 10,
+                  }
+                }
+              >
+                Judy Heim
+              </Text>
+              <Text
+                style={
+                  Object {
+                    "fontSize": 10,
+                    "marginRight": 10,
+                  }
+                }
+              >
+                Gloria Hansen
+              </Text>
+            </View>
+          </View>
+        </View>
+        <Text
+          adjustsFontSizeToFit={true}
+          numberOfLines={2}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "700",
+              "marginTop": 10,
+            }
+          }
+        >
+          
+        </Text>
+        <View
+          style={
+            Object {
+              "fontSize": 12,
+              "marginTop": 10,
+            }
+          }
+        >
+          <RCTScrollView>
+            <View>
+              <Text
+                adjustsFontSizeToFit={true}
+              >
+                Lists quilting-related web sites that offer free things, including patterns, swaps, and advice on everything from materials and techniques to appraising and cleaning quilts.
+              </Text>
+            </View>
+          </RCTScrollView>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "height": 200,
+          "marginBottom": 10,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "http://books.google.com/books/content?id=heFRCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+            "marginTop": 0,
+            "maxHeight": 200,
+            "paddingTop": 0,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "height": 200,
+            "justifyContent": "space-between",
+            "overflow": "hidden",
+            "paddingLeft": 10,
+            "paddingRight": 20,
+          }
+        }
+      >
+        <View>
+          <Text
+            adjustsFontSizeToFit={true}
+            numberOfLines={2}
+            style={
+              Object {
+                "fontSize": 20,
+                "fontWeight": "900",
+              }
+            }
+          >
+            Amish Quilting Patterns
+          </Text>
+          <View
+            style={
+              Object {
+                "height": 15,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                  "fontWeight": "100",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontSize": 10,
+                    "marginRight": 10,
+                  }
+                }
+              >
+                Gwen Marston
+              </Text>
+              <Text
+                style={
+                  Object {
+                    "fontSize": 10,
+                    "marginRight": 10,
+                  }
+                }
+              >
+                Joe Cunningham
+              </Text>
+            </View>
+          </View>
+        </View>
+        <Text
+          adjustsFontSizeToFit={true}
+          numberOfLines={2}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "700",
+              "marginTop": 10,
+            }
+          }
+        >
+          
+        </Text>
+        <View
+          style={
+            Object {
+              "fontSize": 12,
+              "marginTop": 10,
+            }
+          }
+        >
+          <RCTScrollView>
+            <View>
+              <Text
+                adjustsFontSizeToFit={true}
+              >
+                Briefly describes the history of Amish quilts, explains how to make and use patterns, and provides a selection of traditional quilting designs
+              </Text>
+            </View>
+          </RCTScrollView>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "height": 200,
+          "marginBottom": 10,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "http://books.google.com/books/content?id=-sVZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+            "marginTop": 0,
+            "maxHeight": 200,
+            "paddingTop": 0,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "height": 200,
+            "justifyContent": "space-between",
+            "overflow": "hidden",
+            "paddingLeft": 10,
+            "paddingRight": 20,
+          }
+        }
+      >
+        <View>
+          <Text
+            adjustsFontSizeToFit={true}
+            numberOfLines={2}
+            style={
+              Object {
+                "fontSize": 20,
+                "fontWeight": "900",
+              }
+            }
+          >
+            Quilts as text(iles)
+          </Text>
+          <View
+            style={
+              Object {
+                "height": 15,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                  "fontWeight": "100",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontSize": 10,
+                    "marginRight": 10,
+                  }
+                }
+              >
+                Judy Elsley
+              </Text>
+            </View>
+          </View>
+        </View>
+        <Text
+          adjustsFontSizeToFit={true}
+          numberOfLines={2}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "700",
+              "marginTop": 10,
+            }
+          }
+        >
+          the semiotics of quilting
+        </Text>
+        <View
+          style={
+            Object {
+              "fontSize": 12,
+              "marginTop": 10,
+            }
+          }
+        >
+          <RCTScrollView>
+            <View>
+              <Text
+                adjustsFontSizeToFit={true}
+              >
+                
+              </Text>
+            </View>
+          </RCTScrollView>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "height": 200,
+          "marginBottom": 10,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "http://books.google.com/books/content?id=5COuiIMigNoC&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+            "marginTop": 0,
+            "maxHeight": 200,
+            "paddingTop": 0,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "height": 200,
+            "justifyContent": "space-between",
+            "overflow": "hidden",
+            "paddingLeft": 10,
+            "paddingRight": 20,
+          }
+        }
+      >
+        <View>
+          <Text
+            adjustsFontSizeToFit={true}
+            numberOfLines={2}
+            style={
+              Object {
+                "fontSize": 20,
+                "fontWeight": "900",
+              }
+            }
+          >
+            Your First Quilt Book (or it Should Be!)
+          </Text>
+          <View
+            style={
+              Object {
+                "height": 15,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                  "fontWeight": "100",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontSize": 10,
+                    "marginRight": 10,
+                  }
+                }
+              >
+                Carol Doak
+              </Text>
+            </View>
+          </View>
+        </View>
+        <Text
+          adjustsFontSizeToFit={true}
+          numberOfLines={2}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "700",
+              "marginTop": 10,
+            }
+          }
+        >
+          
+        </Text>
+        <View
+          style={
+            Object {
+              "fontSize": 12,
+              "marginTop": 10,
+            }
+          }
+        >
+          <RCTScrollView>
+            <View>
+              <Text
+                adjustsFontSizeToFit={true}
+              >
+                Learn about the tools, supplies, and techniques you need to create simple patchwork quilts. Eight small projects are provided to help you practice your new hand-or machine-stitching skills.
+              </Text>
+            </View>
+          </RCTScrollView>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "height": 200,
+          "marginBottom": 10,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "http://books.google.com/books/content?id=XNXuOOkd9igC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+            "marginTop": 0,
+            "maxHeight": 200,
+            "paddingTop": 0,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "height": 200,
+            "justifyContent": "space-between",
+            "overflow": "hidden",
+            "paddingLeft": 10,
+            "paddingRight": 20,
+          }
+        }
+      >
+        <View>
+          <Text
+            adjustsFontSizeToFit={true}
+            numberOfLines={2}
+            style={
+              Object {
+                "fontSize": 20,
+                "fontWeight": "900",
+              }
+            }
+          >
+            Quilting a Life
+          </Text>
+          <View
+            style={
+              Object {
+                "height": 15,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                  "fontWeight": "100",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontSize": 10,
+                    "marginRight": 10,
+                  }
+                }
+              >
+                Michele Claybrook-Lucas
+              </Text>
+            </View>
+          </View>
+        </View>
+        <Text
+          adjustsFontSizeToFit={true}
+          numberOfLines={2}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "700",
+              "marginTop": 10,
+            }
+          }
+        >
+          Piecing Together Livelihood, Lifestyle, and Life Dreams
+        </Text>
+        <View
+          style={
+            Object {
+              "fontSize": 12,
+              "marginTop": 10,
+            }
+          }
+        >
+          <RCTScrollView>
+            <View>
+              <Text
+                adjustsFontSizeToFit={true}
+              >
+                
+              </Text>
+            </View>
+          </RCTScrollView>
+        </View>
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flex": 1,
+          "flexDirection": "row",
+          "height": 200,
+          "marginBottom": 10,
+        }
+      }
+    >
+      <Image
+        resizeMode="contain"
+        source={
+          Object {
+            "uri": "http://books.google.com/books/content?id=fUgj6cpxXJYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+          }
+        }
+        style={
+          Object {
+            "flex": 1,
+            "marginTop": 0,
+            "maxHeight": 200,
+            "paddingTop": 0,
+          }
+        }
+      />
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "height": 200,
+            "justifyContent": "space-between",
+            "overflow": "hidden",
+            "paddingLeft": 10,
+            "paddingRight": 20,
+          }
+        }
+      >
+        <View>
+          <Text
+            adjustsFontSizeToFit={true}
+            numberOfLines={2}
+            style={
+              Object {
+                "fontSize": 20,
+                "fontWeight": "900",
+              }
+            }
+          >
+            5,500 Quilt Block Designs
+          </Text>
+          <View
+            style={
+              Object {
+                "height": 15,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "flex": 1,
+                  "flexDirection": "row",
+                  "fontWeight": "100",
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontSize": 10,
+                    "marginRight": 10,
+                  }
+                }
+              >
+                Maggie Malone
+              </Text>
+            </View>
+          </View>
+        </View>
+        <Text
+          adjustsFontSizeToFit={true}
+          numberOfLines={2}
+          style={
+            Object {
+              "fontSize": 15,
+              "fontWeight": "700",
+              "marginTop": 10,
+            }
+          }
+        >
+          
+        </Text>
+        <View
+          style={
+            Object {
+              "fontSize": 12,
+              "marginTop": 10,
+            }
+          }
+        >
+          <RCTScrollView>
+            <View>
+              <Text
+                adjustsFontSizeToFit={true}
+              >
+                Collects 5,500 named patchwork patterns from varying sources, ranging from some that go back generations to modern ones, and arranges them by the number of squares to a block to allow easy mixing and matching.
+              </Text>
+            </View>
+          </RCTScrollView>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
